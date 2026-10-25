@@ -1,6 +1,6 @@
 # Windows Server 2022 – Active Directory Administration 🖥️
 
-## 📌 About This Project
+## About This Project
 
 This repository contains a practical assignment completed as part of my **Network Computer Systems Administration (ASIR)** studies.
 
@@ -8,7 +8,7 @@ The main objective was to learn how to install, configure and administer a Windo
 
 The project was completed in a virtualized environment using Oracle VirtualBox.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Windows Server 2022** – Server installation and administration.
 - **Active Directory Domain Services (AD DS)** – Domain, user and group management.
@@ -18,7 +18,7 @@ The project was completed in a virtualized environment using Oracle VirtualBox.
 - **Oracle VirtualBox** – Virtual machine management.
 - **Windows Client** – Domain connectivity and configuration testing.
 
-## ⚙️ What I Did
+## What I Did
 
 During this practice, I worked on the following tasks:
 
@@ -31,7 +31,7 @@ During this practice, I worked on the following tasks:
 - Connected a Windows client to the domain.
 - Tested configurations and troubleshot errors encountered during the exercises.
 
-## 📂 Documentation
+## Documentation
 
 The complete documentation is available in this repository:
 
@@ -39,7 +39,7 @@ The complete documentation is available in this repository:
 
 The document is written in Catalan and includes explanations, configuration steps, commands, screenshots and troubleshooting notes from the practical assignment.
 
-## 🎯 What I Learned
+## What I Learned
 
 This project helped me improve my understanding of:
 
@@ -50,7 +50,7 @@ This project helped me improve my understanding of:
 - Group Policy management.
 - Troubleshooting in virtualized environments.
 
-## 📝 Additional Information
+## Additional Information
 
 This project was completed for educational purposes in a controlled virtual lab environment.
 
